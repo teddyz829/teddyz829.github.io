@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Education](###Education)
+[Education](#jump)
 
 <img align="" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
 
-### Education
 
+### Education
+<span id="jump">1</span>
 <!-- | Carnegie Mellon University| |  
 |:----|:-----:|
 |Ph.D., 3D Learning and Generative Design|2017.08 - Present|
