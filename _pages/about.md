@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[Education](###Education)
 
+<img align="" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
 
-<img align="" img width="220" src="../images/standard.jpg"/> 
-
-<h3>Education</h3>
+###Education
 
 <!-- | Carnegie Mellon University| |  
 |:----|:-----:|
