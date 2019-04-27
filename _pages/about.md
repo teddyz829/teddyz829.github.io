@@ -9,11 +9,11 @@ redirect_from:
 ---
 [Education](#jump)
 
+
 <img align="" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
 
-
-### Education
-<span id="jump">1</span>
+<span id="jump"></span>
+<h4>Education</h4>
 <!-- | Carnegie Mellon University| |  
 |:----|:-----:|
 |Ph.D., 3D Learning and Generative Design|2017.08 - Present|
