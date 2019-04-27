@@ -12,7 +12,18 @@ redirect_from:
 <img align="" img width="220" src="../images/standard.jpg"/> 
 
 <h3>Education</h3>
-<h4>Carnegie Mellon University</h4>
+
+| Carnegie Mellon University|  |
+|:----|:----:|
+| Ph.D., 3D Learning and Generative Design  | 2017.08 - Present |
+|M.S., Machine Learning|2018.09 - Present|
+|M.S., Mechnical Engineering|2015.08 - 2017.06|
+
+| Huazhong University of Sci. and Tech.|   |
+|:----|:-----:|
+|B.S., Mechanical Engineering|2011.08 - 2015.06|
+
+<!-- <h4>Carnegie Mellon University</h4>
 
 <table>
 <tbody>
@@ -44,7 +55,7 @@ redirect_from:
 <td>&nbsp;   2011.08 - 2015.06</td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 
 
