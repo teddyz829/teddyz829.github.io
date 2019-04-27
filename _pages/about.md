@@ -14,7 +14,7 @@ redirect_from:
 <h3>Education</h3>
 <h4>Carnegie Mellon University</h4>
 
-<table border="0" cellspacing="0" cell padding="0">
+<table>
 <tbody>
 <tr>
 <td>&nbsp;Ph.D.</td>
@@ -30,6 +30,18 @@ redirect_from:
 <td>&nbsp;M.S.</td>
 <td>&nbsp; Mechnical Engineering</td>
 <td>&nbsp;   2015.08 - 2017.06</td>
+</tr>
+</tbody>
+</table>
+
+<h4>Huangzhong University of Science and Technology</h4>
+
+<table>
+<tbody>
+<tr>
+<td>&nbsp;B.S.</td>
+<td>&nbsp; Mechanical Engineering</td>
+<td>&nbsp;   2011.08 - 2015.06</td>
 </tr>
 </tbody>
 </table>
