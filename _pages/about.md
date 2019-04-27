@@ -12,8 +12,7 @@ redirect_from:
 <img align="" img width="220" src="../images/standard.jpg"/> 
 
 <h3>Education</h3>
-
-<p><span style="text-decoration: underline;">Carnegie Mellon University</span></p>
+<h4>Carnegie Mellon University</h4>
 <table >
 <tbody>
 <tr>
