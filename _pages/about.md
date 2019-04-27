@@ -13,7 +13,8 @@ redirect_from:
 
 <h3>Education</h3>
 <h4>Carnegie Mellon University</h4>
-<table border="0" style="width:825px;border:0px;">
+
+<table border="0" cellspacing="0" cell padding="0">
 <tbody>
 <tr>
 <td>&nbsp;Ph.D.</td>
