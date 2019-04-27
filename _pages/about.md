@@ -13,29 +13,22 @@ redirect_from:
 
 <h3>Education</h3>
 
-<strong>Carnegie Mellon University</strong>
-<hr />
+<p><span style="text-decoration: underline;">Carnegie Mellon University</span></p>
 <table >
 <tbody>
 <tr>
 <td>&nbsp;Ph.D.</td>
 <td>&nbsp; 3D Learning and Generative Design</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 <td>&nbsp;   2017.08 - Present</td>
 </tr>
 <tr>
 <td>&nbsp;M.S.</td>
 <td>&nbsp; Machine Learning</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 <td>&nbsp;   2018.09 - Present</td>
 </tr>
 <tr>
 <td>&nbsp;M.S.</td>
 <td>&nbsp; Mechnical Engineering</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 <td>&nbsp;   2015.08 - 2017.06</td>
 </tr>
 </tbody>
