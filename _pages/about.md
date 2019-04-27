@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Profile](/../images/standard.jpg)
+
 Education
 ======
 * Ph.D, Carnegie Mellon University, 2017.08 - Present
