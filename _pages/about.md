@@ -19,7 +19,7 @@ redirect_from:
 |M.S., Machine Learning|2018.09 - Present|
 |M.S., Mechnical Engineering|2015.08 - 2017.06|
 
-| Huazhong University of Science and Technology| |   
+| Huazhong University of Science & Technology| |   
 |:----|:-----:|
 |B.S., Mechanical Engineering|2011.08 - 2015.06|
 
