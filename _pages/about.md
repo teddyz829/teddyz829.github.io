@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" img width="220" src="../images/standard.jpg"/> 
+<img align="left" img width="220" src="../images/standard.jpg"/> 
 
 Education
 ======
