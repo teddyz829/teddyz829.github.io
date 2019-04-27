@@ -81,9 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Wentai Zhang"
-  avatar           : "profile.png"
-  bio              : "PhD candidate, Carnegie Mellon University, 
-                      3D Learning and Generative Design"
+  avatar           : "standard.jpg"
+  bio              : "PhD candidate, Carnegie Mellon University, 3D Learning and Generative Design"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
