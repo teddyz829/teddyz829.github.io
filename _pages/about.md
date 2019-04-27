@@ -8,19 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-<img align="left" img width="220" src="../images/standard.jpg"/> 
 
-Education
-======
-| Carnegie Mellon University|  |
-|:----|:----:|
-| Ph.D., 3D Learning and Generative Design  | 2017.08 - Present |
-|M.S., Machine Learning|2018.09 - Present|
-|M.S., Mechnical Engineering|2015.08 - 2017.06|
+<img align="" img width="220" src="../images/standard.jpg"/> 
 
-| Huazhong University of Sci. and Tech.|   |
-|:----|:-----:|
-|B.S., Mechanical Engineering|2011.08 - 2015.06|
+<h3>Education</h3>
+
+<strong>Carnegie Mellon University</strong>
+<hr />
+<table >
+<tbody>
+<tr>
+<td>&nbsp;Ph.D.</td>
+<td>&nbsp; 3D Learning and Generative Design</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;   2017.08 - Present</td>
+</tr>
+<tr>
+<td>&nbsp;M.S.</td>
+<td>&nbsp; Machine Learning</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;   2018.09 - Present</td>
+</tr>
+<tr>
+<td>&nbsp;M.S.</td>
+<td>&nbsp; Mechnical Engineering</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;   2015.08 - 2017.06</td>
+</tr>
+</tbody>
+</table>
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
