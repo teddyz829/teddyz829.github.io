@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Wentai Zhang"
   avatar           : "profile.png"
-  bio              : "PhD candidate, Carnegie Mellon University, 3D Learning and Generative Design"
+  bio              : "PhD candidate, Carnegie Mellon University, 
+                      3D Learning and Generative Design"
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aUY4_9IAAAAJ&hl=en&authuser=1&oi=ao"
-  email            :
+  email            : "wentaiz@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
