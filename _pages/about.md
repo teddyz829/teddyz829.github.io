@@ -11,7 +11,7 @@ redirect_from:
 
 <img align="" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
 
-###Education
+### Education
 
 <!-- | Carnegie Mellon University| |  
 |:----|:-----:|
