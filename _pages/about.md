@@ -13,7 +13,7 @@ redirect_from:
 
 <h3>Education</h3>
 
-| Carnegie Mellon University| |  
+<!-- | Carnegie Mellon University| |  
 |:----|:-----:|
 |Ph.D., 3D Learning and Generative Design|2017.08 - Present|
 |M.S., Machine Learning|2018.09 - Present|
@@ -21,11 +21,11 @@ redirect_from:
 
 | Huazhong University of Sci. and Tech.| |   
 |:----|:-----:|
-|B.S., Mechanical Engineering|2011.08 - 2015.06|
+|B.S., Mechanical Engineering|2011.08 - 2015.06| -->
 
-<!-- <h4>Carnegie Mellon University</h4>
+<h4>Carnegie Mellon University</h4>
 
-<table>
+<table style="border-collapse: collapse;">
 <tbody>
 <tr>
 <td>&nbsp;Ph.D.</td>
@@ -47,7 +47,7 @@ redirect_from:
 
 <h4>Huangzhong University of Science and Technology</h4>
 
-<table>
+<table style="border-collapse: collapse;">
 <tbody>
 <tr>
 <td>&nbsp;B.S.</td>
@@ -55,7 +55,7 @@ redirect_from:
 <td>&nbsp;   2011.08 - 2015.06</td>
 </tr>
 </tbody>
-</table> -->
+</table>
 
 
 
