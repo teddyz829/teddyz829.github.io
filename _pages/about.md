@@ -13,7 +13,7 @@ redirect_from:
 
 <h3>Education</h3>
 <h4>Carnegie Mellon University</h4>
-<table frame=void rules=none>
+<table rules=none>
 <tbody>
 <tr>
 <td>&nbsp;Ph.D.</td>
