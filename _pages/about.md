@@ -13,7 +13,7 @@ redirect_from:
 <img align="" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
 
 <span id="jump"></span>
-<h4>Education</h4>
+<h3>Education</h3>
 <!-- | Carnegie Mellon University| |  
 |:----|:-----:|
 |Ph.D., 3D Learning and Generative Design|2017.08 - Present|
