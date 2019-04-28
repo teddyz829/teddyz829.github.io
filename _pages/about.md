@@ -10,7 +10,7 @@ redirect_from:
 [Education](#education)
 
 <section>
-<img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
+<img align="left" img width="200" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
 <br>
 <span style="color: black; font-weight: bold">Wentai Zhang</span> <br>
 <br>
@@ -22,6 +22,7 @@ I am a Ph.D. student in Carnegie Mellon University. My advisors are Prof. Levent
 
 <section>
 <span id="education"></span>
+
 <h2>Education</h2>
 
 <table>
