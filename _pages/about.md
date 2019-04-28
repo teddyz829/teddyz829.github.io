@@ -30,7 +30,7 @@ redirect_from:
 <tbody>
 <tr>
 <th colspan="6"><h4>Carnegie Mellon University</h4></th>
-<tr>
+</tr>
 <tr>
 <td>&nbsp;Ph.D.</td>
 <td>&nbsp; 3D Learning and Generative Design</td>
@@ -48,7 +48,7 @@ redirect_from:
 </tr>
 <tr>
 <th colspan="6"><h4>Huangzhong University of Science and Technology</h4></th>
-<tr>
+</tr>
 <tr>
 <td>&nbsp;B.S.</td>
 <td>&nbsp; Mechanical Engineering</td>
