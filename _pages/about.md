@@ -29,7 +29,7 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-<th colspan="6"><h4>Carnegie Mellon University</h4></th>
+<td colspan="3">Carnegie Mellon University</td>
 </tr>
 <tr>
 <td>&nbsp;Ph.D.</td>
