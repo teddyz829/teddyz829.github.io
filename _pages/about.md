@@ -29,7 +29,7 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-<td colspan="3">Carnegie Mellon University</td>
+<td colspan="3"><b>Carnegie Mellon University</b></td>
 </tr>
 <tr>
 <td>&nbsp;Ph.D.</td>
@@ -47,7 +47,7 @@ redirect_from:
 <td>&nbsp;   2015.08 - 2017.06</td>
 </tr>
 <tr>
-<td colspan="6"><h4>Huangzhong University of Science and Technology</h4></td>
+<td colspan="6"><b>Huangzhong University of Science and Technology</b></td>
 </tr>
 <tr>
 <td>&nbsp;B.S.</td>
