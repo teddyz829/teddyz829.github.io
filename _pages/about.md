@@ -24,10 +24,13 @@ redirect_from:
 |:----|:-----:|
 |B.S., Mechanical Engineering|2011.08 - 2015.06| -->
 
-<h4>Carnegie Mellon University</h4>
+<!-- <h4>Carnegie Mellon University</h4> -->
 
 <table>
 <tbody>
+<tr>
+<th colspan="6"><h4>Carnegie Mellon University</h4></th>
+<tr>
 <tr>
 <td>&nbsp;Ph.D.</td>
 <td>&nbsp; 3D Learning and Generative Design</td>
@@ -43,13 +46,9 @@ redirect_from:
 <td>&nbsp; Mechnical Engineering</td>
 <td>&nbsp;   2015.08 - 2017.06</td>
 </tr>
-</tbody>
-</table>
-
-<h4>Huangzhong University of Science and Technology</h4>
-
-<table>
-<tbody>
+<tr>
+<th colspan="6"><h4>Huangzhong University of Science and Technology</h4></th>
+<tr>
 <tr>
 <td>&nbsp;B.S.</td>
 <td>&nbsp; Mechanical Engineering</td>
@@ -57,6 +56,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
+
 
 
 
