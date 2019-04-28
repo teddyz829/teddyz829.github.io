@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 [Education](#education) [Research](#research)
-
+<hr/>
 <section style="height: 280px">
 <img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
 <br>
