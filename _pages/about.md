@@ -17,7 +17,6 @@ redirect_from:
 <p>The main focus of my research is machine learning, especially deep representation learning for 3D data, reinforcement learning and their applications in generative design and computer vision.</p>
 <br>
 </section>
-<hr/>
 
 
 <section>
