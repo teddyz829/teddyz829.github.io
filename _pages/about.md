@@ -14,7 +14,7 @@ redirect_from:
 <br>
 <span style="color: black; font-weight: bold">Wentai Zhang</span> <br>
 <br>
-I am a Ph.D. student in Carnegie Mellon University. My advisors are Prof. Levent Burak Kara, Prof Kenji Shimada and Prof. Barnabas Poczos.
+I am a Ph.D. student in Carnegie Mellon University. My advisors are Prof. Levent Burak Kara, Prof. Kenji Shimada and Prof. Barnabas Poczos.
 <br>
 </section>
 
@@ -22,7 +22,7 @@ I am a Ph.D. student in Carnegie Mellon University. My advisors are Prof. Levent
 
 <section>
 <span id="education"></span>
-<h3>Education</h3>
+<h2>Education</h2>
 
 <table>
 <tbody>
