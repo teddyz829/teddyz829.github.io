@@ -11,7 +11,6 @@ redirect_from:
 <hr/>
 <section style="height: 280px">
 <img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
-<br>
 <span style="color: black; font-weight: bold"> <font size="+2">Wentai Zhang</font></span> 
 <br>
 I am a Ph.D. student at Carnegie Mellon University. My advisors are Prof. Levent Burak Kara, Prof. Kenji Shimada and Prof. Barnabas Poczos.
