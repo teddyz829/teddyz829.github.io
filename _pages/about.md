@@ -9,12 +9,12 @@ redirect_from:
 ---
 [Education](#education) [Research](#research)
 
-<section style="height: 270px">
+<section style="height: 280px">
 <img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
 <br>
 <span style="color: black; font-weight: bold"> <font size="+2">Wentai Zhang</font></span> 
 <br>
-I am a Ph.D. student in Carnegie Mellon University. My advisors are Prof. Levent Burak Kara, Prof. Kenji Shimada and Prof. Barnabas Poczos.
+I am a Ph.D. student at Carnegie Mellon University. My advisors are Prof. Levent Burak Kara, Prof. Kenji Shimada and Prof. Barnabas Poczos.
 <br>
 <br>
 The main focus of my research is machine learning, especially deep representation learning for 3D data, reinforcement learning and their applications in generative design and computer vision.
