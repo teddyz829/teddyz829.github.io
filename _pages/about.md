@@ -10,7 +10,7 @@ redirect_from:
 [Education](#education)
 
 <section style="height: 270px">
-<img align="left" img width="200" src="../images/standard.jpg" style="margin-top:5px; margin-right:81px"> 
+<img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
 <br>
 <span style="color: black; font-weight: bold"> <font size="+2">Wentai Zhang</font></span> 
 <br>
