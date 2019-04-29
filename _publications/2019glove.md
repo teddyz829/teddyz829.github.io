@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2019glove
 date: 2019-02-28
 venue: 'Journal of Computing and Information Science in Engineering'
-paperurl: 'https://doi.org/10.1016/j.cad.2019.02.006'
+paperurl: 'https://teddyz829.github.io/files/2019glove.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
