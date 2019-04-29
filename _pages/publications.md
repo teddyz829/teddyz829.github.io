@@ -36,4 +36,5 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 [**Machine learning enabled powder spreading process map for metal additive manufacturing (AM)**](2017am)  
 **Wentai Zhang**, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III. Proceedings of _the 28th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2017.  
 
+---
 \* _Equal contribution_
