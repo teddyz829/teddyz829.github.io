@@ -46,7 +46,7 @@ redirect_from:
 <td>&nbsp;   2015.08 - 2017.06</td>
 </tr>
 <tr>
-<td colspan="6"><b>Huazhong University of Science and Technology</b></td>
+<td colspan="3"><b>Huazhong University of Science and Technology</b></td>
 </tr>
 <tr>
 <td>&nbsp;B.S.</td>
