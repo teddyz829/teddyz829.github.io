@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <!-- conference publications -->
 ## _Conference Publications_ 
-[**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign)
+[**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign)  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, 2019.
 
 
