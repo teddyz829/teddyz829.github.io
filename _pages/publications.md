@@ -15,6 +15,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+<!-- journal pulications -->
 ## _Journal Publications_ 
 [**Data-driven Upsampling of Point Clouds**](2019pointcloud)  
 **Wentai Zhang**, Haoliang Jiang\*, Zhangsihao Yang\*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  _Computer-Aided Design_, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.
@@ -23,8 +25,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 **Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. _Journal of Computing and Information Science in Engineering_, (2019)
 
 
-
-
+<!-- conference publications -->
+## _Conference Publications_ 
+[**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign)
+**Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, 2019.
 
 
 
