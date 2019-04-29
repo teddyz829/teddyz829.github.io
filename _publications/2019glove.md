@@ -22,11 +22,11 @@ If it is useful in your research work, please consider citing this paper:
  author={Zhang, Wentai and Yu, Jonelle Z. and Zhu, Fangcheng and Zhu, Yifang and Yang, Zhangsihao and Ulu, Nurcan Gecer and Arisoy, Batuhan and Kara, Levent Burak.},  
  journal={Journal of Computing and Information Science in Engineering},  
  volume={},  
-> number={},  
-> pages={},  
-> doi = {},  
-> paperid = {JCISE-18-1249},  
-> year={2019},  
-> publisher={American Society of Mechanical Engineers},  
->}
+ number={},  
+ pages={},  
+ doi = {},  
+ paperid = {JCISE-18-1249},  
+ year={2019},  
+ publisher={American Society of Mechanical Engineers},  
+}
 ```
