@@ -30,7 +30,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 [**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign)  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, Anaheim, California, 2019.
 
-[**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2018glove)
+[**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2018glove)  
 **Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, Quebec City, Canada, 2018.
 
 [**Machine learning enabled powder spreading process map for metal additive manufacturing (AM)**](2017am)  
