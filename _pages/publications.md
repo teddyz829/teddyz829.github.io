@@ -30,4 +30,4 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 
-\* Equal contribution.
+\* _Equal contribution_
