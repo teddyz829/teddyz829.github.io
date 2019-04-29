@@ -3,7 +3,7 @@ title: "3D Shape Synthesis for Conceptual Design and Optimization Using Variatio
 collection: publications
 permalink: /publications/2019fundesign
 date: 2019-04-16
-venue: 'ASME IDETC/CIE 2019'
+venue: 'ASME IDETC/CIE'
 paperurl: 'https://arxiv.org/abs/1904.07964'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
