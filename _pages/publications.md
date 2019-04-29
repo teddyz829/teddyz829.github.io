@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=aUY4_9IAAAAJ&hl=en&authuser=1&oi=ao" target="_blank">my Google Scholar profile</a>.</u>
-
+<hr/>
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
@@ -24,6 +24,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 [**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2019glove)  
 **Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. _Journal of Computing and Information Science in Engineering_, (2019)
 
+<hr/>
 
 <!-- conference publications -->
 ## _Conference Publications_ 
@@ -36,5 +37,5 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 [**Machine learning enabled powder spreading process map for metal additive manufacturing (AM)**](2017am)  
 **Wentai Zhang**, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III. Proceedings of _the 28th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2017.  
 
----
+<hr/>
 \* _Equal contribution_
