@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!-- inpage jump -->
-[Education](#education) [Research](#research)
+[Education](#education) &nbsp;[Research](#research)
 <hr/>
 
 <div>
