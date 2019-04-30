@@ -62,7 +62,12 @@ redirect_from:
 <span id="research"></span>
 <h2>Research</h2>
 
+<img align="left" img width="200" style="border:3px outset silver;" src="../images/2019point.png" style="margin-top:5px; margin-right:70px"> 
+
+<span style="color: black; font-weight: bold"> Data-driven Upsampling of Point Clouds</span><br>
+<p><strong>Wentai Zhang</strong>, Haoliang Jiang*, Zhangsihao Yang*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  <em>Computer-Aided Design<em>, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.</p>
 </div>
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
