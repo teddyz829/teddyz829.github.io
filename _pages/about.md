@@ -65,7 +65,7 @@ redirect_from:
 <img align="left" img width="200" style="border:3px outset silver;" src="../images/2019point.png" style="margin-top:5px; margin-right:70px"> 
 
 <span style="color: black; font-weight: bold"> Data-driven Upsampling of Point Clouds</span><br>
-<p><strong>Wentai Zhang</strong>, Haoliang Jiang*, Zhangsihao Yang*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  <em>Computer-Aided Design<em>, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.</p>
+<p><strong>Wentai Zhang</strong>, Haoliang Jiang*, Zhangsihao Yang*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  <em>Computer-Aided Design</em>, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.</p>
 </div>
 
 
