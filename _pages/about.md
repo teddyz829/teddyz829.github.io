@@ -42,7 +42,7 @@ redirect_from:
 </tr>
 <tr>
 <td>&nbsp;M.S.</td>
-<td>&nbsp; Mechnical Engineering</td>
+<td>&nbsp; Mechnical Engineering, advisor: <a href="https://mech.rice.edu/users/higgs" target="_blank">Prof. C. Fred Higgs III</a></td>
 <td>&nbsp;   2015.08 - 2017.06</td>
 </tr>
 <tr>
