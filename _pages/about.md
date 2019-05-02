@@ -10,7 +10,7 @@ redirect_from:
 <!-- inpage jump -->
 [Education](#education) &nbsp;[Research](#research)
 <hr/>
-
+<!-- about me -->
 <div>
 <img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
 <span style="color: black; font-weight: bold"> <font size="+2">Wentai Zhang</font></span><br> 
@@ -19,7 +19,7 @@ redirect_from:
 <p>The main focus of my research is machine learning, especially deep representation learning for 3D data, reinforcement learning and their applications in generative design and computer vision.</p>
 </div>
 <hr>
-
+<!-- Education -->
 <div>
 <span id="education"></span>
 
@@ -57,7 +57,7 @@ redirect_from:
 </table>
 
 </div>
-
+<!-- Research -->
 <div>
 <span id="research"></span>
 <h2>Research</h2>
@@ -86,6 +86,16 @@ redirect_from:
 
 
 
+</div>
+
+<!-- Awards -->
+<div>
+<span id="awards"></span>
+<h2>Awards</h2>
+<ul>
+  <li>Best Poster and Milton Shaw PhD Student Travel Award in 2018 Graduate Research Symposium, Department of Mechanical Engineering, Carnegie Mellon University.</li>
+  <li>National Scholarship (top 1%) by Ministry of Education of the People's Republic of China, 2014.</li>
+</ul>
 </div>
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 A data-driven personal website
