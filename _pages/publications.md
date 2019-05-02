@@ -38,4 +38,4 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 **Wentai Zhang**, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III. Proceedings of _the 28th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2017.  
 
 <hr/>
-\* _Equal contribution_
+\* _Equal contributions._
