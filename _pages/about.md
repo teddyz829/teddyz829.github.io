@@ -93,7 +93,7 @@ redirect_from:
 <span id="awards"></span>
 <h2>Awards</h2>
 <ul>
-  <li>Best Poster and Milton Shaw PhD Student Travel Award in PhD Research Symposium, Department of Mechanical Engineering, Carnegie Mellon University, 2018</li>
+  <li>Best Poster and Milton Shaw PhD Student Travel Award in Graduate Research Symposium, Department of Mechanical Engineering, Carnegie Mellon University, 2018</li>
   <li>National Scholarship (top 1%) by Ministry of Education of the People's Republic of China, 2014.</li>
 </ul>
 </div>
