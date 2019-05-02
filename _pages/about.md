@@ -74,6 +74,7 @@ redirect_from:
 
 <span style="color: black; font-weight: bold"> <a href="https://teddyz829.github.io/publications/2019pointcloud">Data-driven Upsampling of Point Clouds</a></span><br>
 <p><strong>Wentai Zhang</strong>, Haoliang Jiang*, Zhangsihao Yang*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  <em>Computer-Aided Design</em>, 2019.</p>
+<br>
 </div>
 
 <div>
