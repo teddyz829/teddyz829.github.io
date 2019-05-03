@@ -81,7 +81,14 @@ redirect_from:
 <img align="left" img width="200" src="../images/2019glove.png" style="border:3px outset silver;  margin-right:40px"> 
 
 <span style="color: black; font-weight: bold"> <a href="https://teddyz829.github.io/publications/2019glove">High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training</a></span><br>
-<p><strong>Wentai Zhang</strong>, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara.  <em>JCISE</em>, 2019.</p>
+<p><strong>Wentai Zhang</strong>, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara.  <em>JCISE</em>, 2018.</p>
+</div>
+
+<div>
+<img align="left" img width="200" src="../images/2017am.png" style="border:3px outset silver;  margin-right:40px"> 
+
+<span style="color: black; font-weight: bold"> <a href="https://teddyz829.github.io/publications/2017am">Machine learning enabled powder spreading process map for metal additive manufacturing (AM)</a></span><br>
+<p><strong>Wentai Zhang</strong>, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III.  <em>SFF</em>, 2017.</p>
 </div>
 
 
