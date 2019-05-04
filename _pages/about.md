@@ -65,7 +65,7 @@ redirect_from:
 <div>
 <img align="left" img width="200" src="../images/2019fundesign.png" style="border:3px outset silver;  margin-right:40px"> 
 
-<span style="color: black; font-weight: bold"> <a href="https://teddyz829.github.io/publications/2019fundesign">3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders</a></span><br>
+<span style="color: black; font-weight: bold"> <a href="/publications/2019fundesign.html">3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders</a></span><br>
 <p><strong>Wentai Zhang</strong>, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. <em>ASME IDETC/CIE</em>, 2019.</p>
 </div>
 
