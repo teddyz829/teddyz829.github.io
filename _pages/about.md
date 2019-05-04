@@ -12,7 +12,7 @@ redirect_from:
 <hr/>
 <!-- about me -->
 <div>
-<img align="left" img width="220" src="../images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
+<img align="left" img width="220" src="/images/standard.jpg" style="margin-top:5px; margin-right:70px"> 
 <span style="color: black; font-weight: bold"> <font size="+2">Wentai Zhang</font></span><br> 
 <br>
 <p>I am a Ph.D. student at Carnegie Mellon University. My advisors are <a href="http://vdel.me.cmu.edu/" target="_blank">Prof. Levent Burak Kara</a>, <a href="http://www.andrew.cmu.edu/user/shimada/" target="_blank">Prof. Kenji Shimada</a> and <a href="http://www.cs.cmu.edu/~bapoczos/" target="_blank">Prof. Barnabas Poczos</a>.</p>
@@ -70,24 +70,24 @@ redirect_from:
 </div>
 
 <div>
-<img align="left" img width="200" src="../images/2019point.png" style="border:3px outset silver;  margin-right:40px"> 
+<img align="left" img width="200" src="/images/2019point.png" style="border:3px outset silver;  margin-right:40px"> 
 
-<span style="color: black; font-weight: bold"> <a href="../publications/2019pointcloud.html">Data-driven Upsampling of Point Clouds</a></span><br>
+<span style="color: black; font-weight: bold"> <a href="/publications/2019pointcloud.html">Data-driven Upsampling of Point Clouds</a></span><br>
 <p><strong>Wentai Zhang</strong>, Haoliang Jiang*, Zhangsihao Yang*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  <em>Computer-Aided Design</em>, 2019.</p>
 <br>
 </div>
 
 <div>
-<img align="left" img width="200" src="../images/2019glove.png" style="border:3px outset silver;  margin-right:40px"> 
+<img align="left" img width="200" src="/images/2019glove.png" style="border:3px outset silver;  margin-right:40px"> 
 
-<span style="color: black; font-weight: bold"> <a href="../publications/2019glove.html">High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training</a></span><br>
+<span style="color: black; font-weight: bold"> <a href="/publications/2019glove.html">High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training</a></span><br>
 <p><strong>Wentai Zhang</strong>, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara.  <em>JCISE</em>, 2018.</p>
 </div>
 
 <div>
-<img align="left" img width="200" src="../images/2017am.png" style="border:3px outset silver;  margin-right:40px"> 
+<img align="left" img width="200" src="/images/2017am.png" style="border:3px outset silver;  margin-right:40px"> 
 
-<span style="color: black; font-weight: bold"> <a href="../publications/2017am.html">Machine learning enabled powder spreading process map for metal additive manufacturing (AM)</a></span><br>
+<span style="color: black; font-weight: bold"> <a href="/publications/2017am.html">Machine learning enabled powder spreading process map for metal additive manufacturing (AM)</a></span><br>
 <p><strong>Wentai Zhang</strong>, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III.  <em>The 28th Annual International Solid Freeform Fabrication Symposium</em>, 2017.</p>
 </div>
 
