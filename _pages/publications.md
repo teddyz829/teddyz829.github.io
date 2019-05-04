@@ -21,20 +21,20 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 [**Data-driven Upsampling of Point Clouds**](2019pointcloud.html)  
 **Wentai Zhang**, Haoliang Jiang\*, Zhangsihao Yang\*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  _Computer-Aided Design_, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.
 
-[**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2019glove)  
+[**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2019glove.html)  
 **Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. _Journal of Computing and Information Science in Engineering_, (2019)
 
 <hr/>
 
 <!-- conference publications -->
 ## _Conference Publications_ 
-[**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign)  
+[**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign.html)  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, Anaheim, California, 2019.
 
-[**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2018glove)  
+[**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2018glove.html)  
 **Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, Quebec City, Canada, 2018.
 
-[**Machine learning enabled powder spreading process map for metal additive manufacturing (AM)**](2017am)  
+[**Machine learning enabled powder spreading process map for metal additive manufacturing (AM)**](2017am.html)  
 **Wentai Zhang**, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III. Proceedings of _the 28th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2017.  
 
 <hr/>
