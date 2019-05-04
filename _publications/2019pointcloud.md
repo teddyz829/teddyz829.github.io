@@ -16,7 +16,7 @@ High quality upsampling of sparse 3D point clouds is critically useful for a wid
 
 If it is useful in your research work, please consider citing this paper:
 
-```
+<pre>
  @article{ZHANG2019data,  
   title = "Data-driven Upsampling of Point Clouds",  
   journal = "Computer-Aided Design",  
@@ -27,4 +27,4 @@ If it is useful in your research work, please consider citing this paper:
   doi = "https://doi.org/10.1016/j.cad.2019.02.006",  
   author = "Wentai Zhang and Haoliang Jiang and Zhangsihao Yang and Soji Yamakawa and Kenji Shimada and Levent Burak Kara"  
  }
-```
+</pre>

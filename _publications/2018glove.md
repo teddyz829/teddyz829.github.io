@@ -16,7 +16,7 @@ The ability to track human operators’ hand usage when working in production pl
 
 If it is useful in your research work, please consider citing this paper:
 
-```
+<pre>
  @inproceedings{zhang2018high,
   title={High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training},
   author={Zhang, Wentai and Jonelle, Z Yu and Zhu, Fangcheng and Zhu, Yifang and Ulu, Nurcan Gecer and Arisoy, Batuhan and Kara, Levent Burak},
@@ -24,5 +24,5 @@ If it is useful in your research work, please consider citing this paper:
   pages={V01BT02A019--V01BT02A019},
   year={2018},
   organization={American Society of Mechanical Engineers}
-}
-```
+ }
+</pre>

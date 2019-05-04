@@ -16,18 +16,18 @@ We propose a data-driven 3D shape design method that can learn a generative mode
 
 If it is useful in your research work, please consider citing this paper:
 
-```latex
-@article{DBLP:journals/corr/abs-1904-07964,  
- author    = {Wentai Zhang and Zhangsihao Yang and Haoliang Jiang and Suyash Nigam and Soji Yamakawa and Tomotake Furuhata and Kenji Shimada and Levent Burak Kara},  
- title     = {3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders},   
- journal   = {CoRR},  
- volume    = {abs/1904.07964},  
- year      = {2019},  
- url       = {http://arxiv.org/abs/1904.07964},  
- archivePrefix = {arXiv},  
- eprint    = {1904.07964},  
- timestamp = {Fri, 26 Apr 2019 13:18:53 +0200},  
- biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1904-07964},  
- bibsource = {dblp computer science bibliography, https://dblp.org}  
-}
-```
+<pre>
+ @article{DBLP:journals/corr/abs-1904-07964,  
+  author    = {Wentai Zhang and Zhangsihao Yang and Haoliang Jiang and Suyash Nigam and Soji Yamakawa and Tomotake Furuhata and Kenji Shimada and Levent Burak Kara},  
+  title     = {3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders},   
+  journal   = {CoRR},  
+  volume    = {abs/1904.07964},  
+  year      = {2019},  
+  url       = {http://arxiv.org/abs/1904.07964},  
+  archivePrefix = {arXiv},  
+  eprint    = {1904.07964},  
+  timestamp = {Fri, 26 Apr 2019 13:18:53 +0200},  
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1904-07964},  
+  bibsource = {dblp computer science bibliography, https://dblp.org}  
+ }
+</pre>
