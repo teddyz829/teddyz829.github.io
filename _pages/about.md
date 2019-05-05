@@ -97,9 +97,11 @@ redirect_from:
 
 <!-- Teaching -->
 <div>
+  <span id="teaching"></span>
+  <h2>Teaching</h2>
   <ul>
     <li><strong>Course Assistant</strong> for <em>Artificial Intelligence and Machine Learning for Engineering Design (24787)</em>, CMU, 2016 fall.
-    <li><strong>Teaching Assistant</stong> for <em>Introduction to CAD & CAE Tools</em>, CMU, 2016 fall and 2017 spring. 
+    <li><strong>Teaching Assistant</strong> for <em>Introduction to CAD & CAE Tools</em>, CMU, 2016 fall and 2017 spring. 
   </ul>
 
 
