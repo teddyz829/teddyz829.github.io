@@ -95,7 +95,7 @@ redirect_from:
 <!-- </div> -->
 
 <!-- Teaching -->
-<div>
+<!-- <div>
   <span id="teaching"></span>
   <h2>Teaching</h2>
   <ul>
@@ -104,20 +104,20 @@ redirect_from:
   </ul>
 
 
-</div>
+</div> -->
 
 
 <!-- Awards -->
-<div>
+<!-- <div>
 <span id="awards"></span>
 <h2>Awards</h2>
 <ul>
   <li>Best Poster and Milton Shaw PhD Student Travel Award in Graduate Research Symposium, Department of Mechanical Engineering, Carnegie Mellon University, 2018.</li>
   <li>National Scholarship (top 1%) by Ministry of Education of the People's Republic of China, 2014.</li>
 </ul>
-</div>
+</div> -->
 
 
 
-<hr/>
-<p>* <em>Equal contributions.</em></p>
+<!-- <hr/>
+<p>* <em>Equal contributions.</em></p> -->
