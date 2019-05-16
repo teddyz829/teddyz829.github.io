@@ -40,6 +40,3 @@ author_profile: true
 
 
 </div>
-
-<hr/>
-<p>* <em>Equal contributions.</em></p>
