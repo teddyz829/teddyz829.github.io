@@ -1,42 +1,30 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
 <hr/>
 
+<!-- Teaching -->
 <div>
+  <span id="teaching"></span>
+  <h2>Teaching</h2>
+  <ul>
+    <li><strong>Course Assistant</strong> for <em>Artificial Intelligence and Machine Learning for Engineering Design (24-787)</em>, CMU, 2016 fall.</li>
+    <li><strong>Teaching Assistant</strong> for <em>Introduction to CAD & CAE Tools (24-688)</em>, CMU, 2016 fall and 2017 spring.</li> 
+  </ul>
 
-<div>
-<img align="left" img width="200" src="./../images/2019fundesign.png" style="border:3px outset silver;  margin-right:40px"> 
 
-<span style="color: black; font-weight: bold"> <a href="./../publications/2019fundesign.html">3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders</a></span><br>
-<p><strong>Wentai Zhang</strong>, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. <em>ASME IDETC/CIE</em>, 2019.</p>
-</div>
-
-<div>
-<img align="left" img width="200" src="./../images/2019point.png" style="border:3px outset silver;  margin-right:40px"> 
-
-<span style="color: black; font-weight: bold"> <a href="./../publications/2019pointcloud.html">Data-driven Upsampling of Point Clouds</a></span><br>
-<p><strong>Wentai Zhang</strong>, Haoliang Jiang*, Zhangsihao Yang*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  <em>Computer-Aided Design</em>, 2019.</p>
-<br>
-</div>
-
-<div>
-<img align="left" img width="200" src="./../images/2019glove.png" style="border:3px outset silver;  margin-right:40px"> 
-
-<span style="color: black; font-weight: bold"> <a href="./../publications/2019glove.html">High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training</a></span><br>
-<p><strong>Wentai Zhang</strong>, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara.  <em>JCISE</em>, 2018.</p>
-</div>
-
-<div>
-<img align="left" img width="200" src="./../images/2017am.png" style="border:3px outset silver;  margin-right:40px"> 
-
-<span style="color: black; font-weight: bold"> <a href="./../publications/2017am.html">Machine learning enabled powder spreading process map for metal additive manufacturing (AM)</a></span><br>
-<p><strong>Wentai Zhang</strong>, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III.  <em>The 28th Annual International Solid Freeform Fabrication Symposium</em>, 2017.</p>
 </div>
 
 
-
+<!-- Awards -->
+<div>
+<span id="awards"></span>
+<h2>Awards</h2>
+<ul>
+  <li>Best Poster and Milton Shaw PhD Student Travel Award in Graduate Research Symposium, Department of Mechanical Engineering, Carnegie Mellon University, 2018.</li>
+  <li>National Scholarship (top 1%) by Ministry of Education of the People's Republic of China, 2014.</li>
+</ul>
 </div>
