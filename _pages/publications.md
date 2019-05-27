@@ -40,10 +40,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <!-- poster presentations -->
 ## _Poster Presentations_
-[**Functionally-Based Conceptual Design Through Data-Driven Shape Analysis**]  
+**Functionally-Based Conceptual Design Through Data-Driven Shape Analysis**  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Soji Yamakawa, Kenji Shimada, Levent Burak Kara. _Machine Learning in Science and Engineering_, Atlanta, GA, 2019. 
 
-[**3D Shape Abstraction and Style Transfer Using Deep Learning**]  
+**3D Shape Abstraction and Style Transfer Using Deep Learning**  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Kenji Shimada, Levent Burak Kara. _Machine Learning in Science and Engineering_, Pittsburgh, PA, 2018. 
 
 <hr/>
