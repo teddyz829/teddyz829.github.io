@@ -42,7 +42,7 @@ author_profile: true
 </div>
 
 <div>
- <h2>Project</h2>
+ <h1>Project</h1>
  <hr/>
  <div>
  <p>Robotic Arm Control Using Deep Reinforcement Learning with Gaussian Extrinsic Rewards</p>
