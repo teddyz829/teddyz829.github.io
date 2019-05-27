@@ -39,7 +39,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 
 <!-- poster presentations -->
-## _Poster Presentations_
+## _Poster / Presentations_
 **Functionally-Based Conceptual Design Through Data-Driven Shape Analysis**  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Soji Yamakawa, Kenji Shimada, Levent Burak Kara. _Machine Learning in Science and Engineering_, Atlanta, GA, 2019. 
 
