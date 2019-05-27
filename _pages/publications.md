@@ -41,7 +41,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <!-- poster presentations -->
 ## _Poster / Presentations_
-**Acoustic Process Monitoring of Metal Additive Manufacturing**
+**Acoustic Process Monitoring of Metal Additive Manufacturing**  
 Brandon Abranovic\*, **Wentai Zhang**\*, Haiguang Liao, Levent Burak Kara, Jack Lee Beuth.
 _the 30th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2019.
 
