@@ -37,5 +37,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 [**Machine learning enabled powder spreading process map for metal additive manufacturing (AM)**](2017am.html)  
 **Wentai Zhang**, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III. Proceedings of _the 28th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2017.  
 
+
+<!-- poster presentations -->
+## _Poster Presentations_
+[**Functionally-Based Conceptual Design Through Data-Driven Shape Analysis**]
+**Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Soji Yamakawa, Kenji Shimada, Levent Burak Kara. _Machine Learning in Science and Engineering_, Atlanta, GA, 2019. 
+
+[**3D Shape Abstraction and Style Transfer Using Deep Learning**]
+**Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Kenji Shimada, Levent Burak Kara. _Machine Learning in Science and Engineering_, Pittsburgh, PA, 2018. 
+
 <hr/>
 \* _Equal contributions._
