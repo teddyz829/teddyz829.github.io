@@ -37,9 +37,10 @@ author_profile: true
 <p><strong>Wentai Zhang</strong>, Akash Mehta, Prathamesh S Desai, C. Fred Higgs III.  <em>The 28th Annual International Solid Freeform Fabrication Symposium</em>, 2017.</p>
 </div>
 
-
-
 </div>
+
+<br>
+
 <!-- Project -->
 <div>
  <h1>Project</h1>
