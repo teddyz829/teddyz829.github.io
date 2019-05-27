@@ -48,13 +48,13 @@ author_profile: true
  <!-- 703 proj -->
  <div>
  <p><strong>Robotic Arm Control Using Deep Reinforcement Learning with Gaussian Extrinsic Rewards</strong>
- Members: <strong>Wentai Zhang</strong>, Bolun Dai, Zhangsihao Yang. Fall, 2018. <a href="./../files/2018robot.pdf" target="_blank">PDF</a><br> Instructors: <a href="https://www.cs.cmu.edu/~katef/" target="_blank">Katerina Fragkiadaki</a> and <a href="http://www.cs.cmu.edu/~tom/" target="_blank">Tom Mitchell</a>.</p>
+ Members: <strong>Wentai Zhang</strong>, Bolun Dai, Zhangsihao Yang. Fall, 2018. <a href="./../files/2018robot.pdf" target="_blank">PDF</a><br> Instructors: <a href="https://www.cs.cmu.edu/~katef/" target="_blank">Prof. Katerina Fragkiadaki</a> and <a href="http://www.cs.cmu.edu/~tom/" target="_blank">Prof. Tom Mitchell</a>.</p>
 
  </div>
  <!-- 707 proj -->
  <div>
  <h3>TD-GAN for Chatbot Text Generation</h3>
- <p>Members: Yu Huang, <strong>Wentai Zhang</strong>, Yunwen Zhou. Fall, 2017. <a href="./../files/2017tdgan.pdf" target="_blank">PDF</a><br> Instructor: <a href="http://www.cs.cmu.edu/~rsalakhu/" target="_blank">Ruslan Salakhutdinov</a>.</p>
+ <p>Members: Yu Huang, <strong>Wentai Zhang</strong>, Yunwen Zhou. Fall, 2017. <a href="./../files/2017tdgan.pdf" target="_blank">PDF</a><br> Instructor: <a href="http://www.cs.cmu.edu/~rsalakhu/" target="_blank">Prof. Ruslan Salakhutdinov</a>.</p>
 
  </div>
 
