@@ -44,9 +44,13 @@ author_profile: true
 <div>
  <h1>Project</h1>
  <hr/>
+
  <div>
- <p>Robotic Arm Control Using Deep Reinforcement Learning with Gaussian Extrinsic Rewards</p>
+ <a href="./../files/2018robot.pdf">Robotic Arm Control Using Deep Reinforcement Learning with Gaussian Extrinsic Rewards</a>
+ <p><stong>Wentai Zhang</strong>, Bolun Dai, Zhangsihao Yang. Fall, 2018.<br> Instructors: Katerina Fragkiadaki and Tom Mitchell.</p>
+
  </div>
+
 </div>
 
 <hr/>
