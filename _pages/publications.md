@@ -45,7 +45,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Soji Yamakawa, Kenji Shimada, Levent Burak Kara. _Machine Learning in Science and Engineering_, Atlanta, GA, 2019. 
 
 **On AM Spreading Process Maps Obtained Using Polydispersed Particle Modeling and Machine Learning**
-Prathamesh Desai, Akash Mehta, Wentai Zhang, C. Fred Higgs III.
+Prathamesh Desai, Akash Mehta, **Wentai Zhang**, C. Fred Higgs III.
 _the 29th Annual International Solid Freeform Fabrication Symposium_, Austin, TX, 2017.
 
 **3D Shape Abstraction and Style Transfer Using Deep Learning**  
