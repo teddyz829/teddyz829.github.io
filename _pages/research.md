@@ -53,8 +53,8 @@ author_profile: true
  </div>
  <!-- 707 proj -->
  <div>
- <h3>TD-GAN for Chatbot Text Generation</h3>
- <p>Members: Yu Huang, <strong>Wentai Zhang</strong>, Yunwen Zhou. Fall, 2017. <a href="./../files/2017tdgan.pdf" target="_blank">PDF</a><br> Instructor: <a href="http://www.cs.cmu.edu/~rsalakhu/" target="_blank">Prof. Ruslan Salakhutdinov</a>.</p>
+ <p><strong>TD-GAN for Chatbot Text Generation</strong><br>
+ Members: Yu Huang, <strong>Wentai Zhang</strong>, Yunwen Zhou. Fall, 2017. <a href="./../files/2017tdgan.pdf" target="_blank">PDF</a><br> Instructor: <a href="http://www.cs.cmu.edu/~rsalakhu/" target="_blank">Prof. Ruslan Salakhutdinov</a>.</p>
 
  </div>
 
