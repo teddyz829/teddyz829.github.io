@@ -59,6 +59,13 @@ author_profile: true
 
  </div>
 
+ <!-- 701 proj -->
+ <div>
+ <p><strong>Image Understanding: Learning from Text</strong><br>
+ Members: Miao Liu, <strong>Wentai Zhang</strong>, Zeyu Peng. Fall, 2016. <a href="./../files/2016image.pdf" target="_blank">PDF</a><br> Instructors: <a href="http://www.cs.cmu.edu/~epxing/" target="_blank">Prof. Eric P. Xing</a> and <a href="http://www.cs.cmu.edu/~mgormley/" target="_blank">Prof. Matt Gormley</a>.</p>
+
+ </div>
+
 </div>
 
 <hr/>
