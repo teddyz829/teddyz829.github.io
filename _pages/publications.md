@@ -22,7 +22,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 **Wentai Zhang**, Haoliang Jiang\*, Zhangsihao Yang\*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  _Computer-Aided Design_, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.
 
 [**High Degree of Freedom Hand Pose Tracking Using Limited Strain Sensing and Optical Training**](2019glove.html)  
-**Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. _Journal of Computing and Information Science in Engineering_, (2019), doi: 10.1115/1.4043757.
+**Wentai Zhang**, Jonelle Z. Yu, Fangcheng Zhu, Yifang Zhu, Zhangsihao Yang, Nurcan Gecer Ulu, Batuhan Arisoy, Levent Burak Kara. _Journal of Computing and Information Science in Engineering_, 19.3(2019), p.031014. doi: 10.1115/1.4043757.
 
 <hr/>
 
