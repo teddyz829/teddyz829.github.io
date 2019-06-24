@@ -9,6 +9,14 @@ author_profile: true
 <div>
 
 <div>
+<img align="left" img width="200" src="./../images/2019global.png" style="border:3px outset silver;  margin-right:40px"> 
+
+<span style="color: black; font-weight: bold"> <a href="./../publications/2019global.html">A Deep Reinforcement Learning Approach for Global Routing
+</a></span><br>
+<p>Haiguang Liao, <strong>Wentai Zhang</strong>, Xuliang Dong, Barnabas Poczos, Kenji Shimada, Levent Burak Kara. Submitted to <em>ASME JMD</em>, 2019.</p>
+</div>
+
+<div>
 <img align="left" img width="200" src="./../images/2019fundesign.png" style="border:3px outset silver;  margin-right:40px"> 
 
 <span style="color: black; font-weight: bold"> <a href="./../publications/2019fundesign.html">3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders</a></span><br>
