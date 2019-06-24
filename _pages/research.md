@@ -14,6 +14,7 @@ author_profile: true
 <span style="color: black; font-weight: bold"> <a href="./../publications/2019global.html">A Deep Reinforcement Learning Approach for Global Routing
 </a></span><br>
 <p>Haiguang Liao, <strong>Wentai Zhang</strong>, Xuliang Dong, Barnabas Poczos, Kenji Shimada, Levent Burak Kara. Submitted to <em>ASME JMD</em>, 2019.</p>
+<br>
 </div>
 
 <div>
