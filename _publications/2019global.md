@@ -18,12 +18,7 @@ If it is useful in your research work, please consider citing this paper:
 
 <pre>
  @article{DBLP:journals/corr/abs-1906-08809,
-  author    = {Haiguang Liao and
-               Wentai Zhang and
-               Xuliang Dong and
-               Barnab{\'{a}}s P{\'{o}}czos and
-               Kenji Shimada and
-               Levent Burak Kara},
+  author    = {Haiguang Liao and Wentai Zhang and Xuliang Dong and Barnabas Poczos and Kenji Shimada and Levent Burak Kara},
   title     = {A Deep Reinforcement Learning Approach for Global Routing},
   journal   = {CoRR},
   volume    = {abs/1906.08809},
