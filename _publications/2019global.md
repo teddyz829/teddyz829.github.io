@@ -17,17 +17,22 @@ Global routing has been a historically challenging problem in electronic circuit
 If it is useful in your research work, please consider citing this paper:
 
 <pre>
- @article{DBLP:journals/corr/abs-1904-07964,  
-  author    = {Wentai Zhang and Zhangsihao Yang and Haoliang Jiang and Suyash Nigam and Soji Yamakawa and Tomotake Furuhata and Kenji Shimada and Levent Burak Kara},  
-  title     = {3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders},   
-  journal   = {CoRR},  
-  volume    = {abs/1904.07964},  
-  year      = {2019},  
-  url       = {http://arxiv.org/abs/1904.07964},  
-  archivePrefix = {arXiv},  
-  eprint    = {1904.07964},  
-  timestamp = {Fri, 26 Apr 2019 13:18:53 +0200},  
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1904-07964},  
-  bibsource = {dblp computer science bibliography, https://dblp.org}  
+ @article{DBLP:journals/corr/abs-1906-08809,
+  author    = {Haiguang Liao and
+               Wentai Zhang and
+               Xuliang Dong and
+               Barnab{\'{a}}s P{\'{o}}czos and
+               Kenji Shimada and
+               Levent Burak Kara},
+  title     = {A Deep Reinforcement Learning Approach for Global Routing},
+  journal   = {CoRR},
+  volume    = {abs/1906.08809},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1906.08809},
+  archivePrefix = {arXiv},
+  eprint    = {1906.08809},
+  timestamp = {Mon, 24 Jun 2019 17:28:45 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1906-08809},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
  }
 </pre>
