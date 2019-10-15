@@ -49,7 +49,7 @@ redirect_from:
 <tr>
 <td>&nbsp;B.S.</td>
 <td>&nbsp; Mechanical Engineering</td>
-<td>&nbsp;   2011.0 8 - 2015.06</td>
+<td>&nbsp;   2011.08 - 2015.06</td>
 </tr>
 </tbody>
 </table>
