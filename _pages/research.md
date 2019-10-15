@@ -77,5 +77,8 @@ author_profile: true
 
 </div>
 
+<script src="https://bibbase.org/show?bib=http%3A%2F%2Fvdel.me.cmu.edu%2Flbkrefs.bib&jsonp=1&fullnames=1&theme=default">
+</script>
+
 <hr/>
 <p>* <em>Equal contributions.</em></p>
