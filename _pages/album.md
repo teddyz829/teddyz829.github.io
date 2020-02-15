@@ -6,7 +6,7 @@ author_profile: true
 ---
 <hr/>
 
-### Personal Albums
-
+### I love to take photos in my spare time. Here are some photos from my gallery:
+Warning: copyrights of Wentai Zhang. Please don't use it anywhere else unless you ask for my permission first.
 
 <a><img src="https://i.imgur.com/yUM99gW.jpg?1" title="source: imgur.com" /></a>
