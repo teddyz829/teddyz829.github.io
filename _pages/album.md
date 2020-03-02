@@ -7,7 +7,7 @@ author_profile: true
 <hr/>
 
 ### I love to take photos in my spare time. Here are some photos from my gallery:
-Notice: All rights reserved. Please don't use it anywhere else unless you ask for my permission first.
+Notice: All rights reserved. Please don't use it anywhere else unless you ask for my permission.
 
 <a><img src="https://i.imgur.com/to4eXbS.jpg" title="source: imgur.com" /></a>
 <a><img src="https://i.imgur.com/bClwYii.jpg" title="source: imgur.com" /></a>
