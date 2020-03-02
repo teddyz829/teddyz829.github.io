@@ -19,7 +19,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <!-- journal pulications -->
 ## _Journal Publications_ 
 [**A Deep Reinforcement Learning Approach for Global Routing**](2019global.html)  
-Haiguang Liao, **Wentai Zhang**, Xuliang Dong, Barnabas Poczos, Kenji Shimada, Levent Burak Kara. Submitted to ASME _Journal of Mechanical Design_.
+Haiguang Liao, **Wentai Zhang**, Xuliang Dong, Barnabas Poczos, Kenji Shimada, Levent Burak Kara. _Journal of Mechanical Design_, 2020, 142(6).
 
 [**Data-driven Upsampling of Point Clouds**](2019pointcloud.html)  
 **Wentai Zhang**, Haoliang Jiang\*, Zhangsihao Yang\*, Soji Yamakawa, Kenji Shimada, Levent Burak Kara.  _Computer-Aided Design_, 112(2019), p1-13. doi: 10.1016/j.cad.2019.02.006.
