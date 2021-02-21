@@ -11,7 +11,8 @@ author_profile: true
   <span id="intern"></span>
   <h2>Internships</h2>
 
-  <h3> Machine Learning Intern at the CTO Office, Ansys, Summer 2020 </h3>
+  <strong> Machine Learning Intern at the CTO Office, Ansys Inc</strong>
+  San Jose, CA, Summer 2020.
   <ul>
     <li>Worked on the deep learning solution for 3D topology optimization as a machine learning Ph.D. intern.</li>
     <li>Proposed a algorithm to generate attention masks for a deep learning framework design for end-to-end learning of the 3D topology optimization. The modified model achieved 20% improvement in terms of prediction error.</li> 
