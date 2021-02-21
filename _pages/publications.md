@@ -31,6 +31,10 @@ Haiguang Liao, **Wentai Zhang**, Xuliang Dong, Barnabas Poczos, Kenji Shimada, L
 
 <!-- conference publications -->
 ## _Conference Publications_ 
+
+[**Flaw Detection in Metal Additive Manufacturing Using Deep Learned Acoustic Features**]
+**Wentai Zhang**, Brandon Abranovic, Jacob Hanson-Regalado, Can Koz, Bhavya Duvvuri, Kenji Shimada, Jack Beuth, Levent Burak Kara.  Workshop of _Conference on Neural Information Processing Systems (NeurIPS)_, 2020.
+
 [**3D Shape Synthesis for Conceptual Design and Optimization Using Variational Autoencoders**](2019fundesign.html)  
 **Wentai Zhang**, Zhangsihao Yang, Haoliang Jiang, Suyash Nigam, Soji Yamakawa, Tomotake Furuhata, Kenji Shimada, Levent Burak Kara. Proceedings of _ASME International Design Engineering Technical Conferences/CIE_, Anaheim, California, 2019.
 
