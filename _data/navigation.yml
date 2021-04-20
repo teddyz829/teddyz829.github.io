@@ -33,3 +33,7 @@ main:
   - title: "Album"
     url: /album/  
 
+  - title: "Project"
+    url: ../image_synthesis_proj/proj4/proj4_wentaiz.html  
+
+
